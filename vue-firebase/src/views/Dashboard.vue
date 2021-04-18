@@ -1,12 +1,15 @@
 <template>
- <div>
-   <h1>Home</h1>
- </div>
+  <div>
+    User Dashboard
+  </div>
 </template>
 
 <script>
-
 export default {
 
 }
 </script>
+
+<style>
+
+</style>
